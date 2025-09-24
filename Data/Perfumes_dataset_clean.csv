@@ -1,0 +1,895 @@
+brand,perfume,type,category,target_audience,longevity
+Dumont,Nitro Red,EDP,Fresh Scent,Male,Strong
+Dumont,Nitro Pour Homme,EDP,Fresh Scent,Male,Strong
+Dumont,Nitro White,EDP,Fresh Scent,Unisex,Strong
+Dumont,Nitro Blue,EDP,Fresh Scent,Unisex,Strong
+Dumont,Nitro Green,EDP,Fresh Scent,Unisex,Strong
+Dumont,Nitro Platinum,EDP,Mass Pleaser,Male,Strong
+Dumont,Nitro Intense,EDP,Woody Spicy,Male,Strong
+Dumont,Nitro Black,EDP,Woody Spicy,Male,Strong
+Dumont,Celerio Oros,EDP,Oriental Vanilla,Unisex,Medium
+Dumont,Celerio Epic,EDP,Woody Aromatic,Male,Medium
+Armaf,Club De Nuit Intense Man,EDT,Woody Spicy,Male,Strong
+Armaf,Cdnim Pure Parfum,Parfum,Woody Spicy,Male,Strong
+Armaf,Cdnim Edp,EDP,Woody Spicy,Male,Strong
+Armaf,Cdnim Limited Edition,EDP,Woody Spicy,Male,Strong
+Armaf,Cdn Women,EDP,Floral Fruity,Female,Medium
+Armaf,Lionheart Man,EDT,Woody Aromatic,Male,Medium
+Armaf,Yum Yum,EDP,Fruity Floral,Female,Medium
+Armaf,Sillage,EDP,Woody Spicy,Male,Medium
+Armaf,Imperial,EDP,Woody Spicy,Male,Medium
+Armaf,Untold,EDP,Woody Aromatic,Male,Medium
+Armaf,Hunter,EDT,Woody Spicy,Male,Medium
+Armaf,Hunter Intense,EDP,Woody Spicy,Male,Strong
+Armaf,Ventana Marine,EDP,Fresh Scent,Male,Medium
+Armaf,Ventana,EDT,Fresh Scent,Male,Medium
+Armaf,Urban Man Elixr,EDP,Woody Spicy,Male,Medium
+Armaf,Milestone,EDP,Woody Spicy,Male,Medium
+Armaf,Aura Fresh,EDP,Fresh Scent,Male,Medium
+Armaf,Precioux 1,EDP,Woody Spicy,Male,Medium
+Armaf,Legesi,EDP,Woody Aromatic,Male,Medium
+Armaf,Blue Homme,EDT,Fresh Scent,Male,Medium
+Armaf,Odyssey Homme,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Homme White Edition,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Homme Gold Edition,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Homme Red,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Homme Blue,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Homme Black,EDP,Woody Spicy,Male,Medium
+Armaf,Odyssey Femme,EDP,Floral Fruity,Female,Medium
+Armaf,Tag Him,EDT,Woody Spicy,Male,Medium
+Armaf,Tag Him Prestige Edition,EDT,Woody Spicy,Male,Medium
+Armaf,Tag Him Pour Homme,EDT,Woody Spicy,Male,Medium
+Armaf,Tag Her,EDP,Floral Fruity,Female,Medium
+Armaf,Derby Club House Blanche,EDT,Fresh Scent,Unisex,Medium
+Armaf,Derby Club House Gold,EDT,Woody Spicy,Male,Medium
+Armaf,Derby Club House Ascot,EDT,Woody Spicy,Male,Medium
+Armaf,Derby Club House Adventure,EDT,Woody Aromatic,Male,Medium
+Armaf,Derby Club House Victory,EDT,Woody Aromatic,Male,Medium
+Armaf,Derby Club House Blue,EDT,Fresh Scent,Unisex,Medium
+Armaf,All You Need Is Passion,EDP,Woody Spicy,Male,Medium
+Armaf,The Pride Of Armaf For Men,EDP,Woody Spicy,Male,Medium
+Armaf,The Pride Of Armaf For Women,EDP,Floral Fruity,Female,Medium
+Armaf,The Warrior,EDT,Woody Spicy,Male,Medium
+Armaf,The Hunter,EDT,Woody Spicy,Male,Medium
+Armaf,The Hunter Intense,EDP,Woody Spicy,Male,Strong
+Armaf,The Hunter Black,EDP,Woody Spicy,Male,Strong
+Armaf,The Hunter Jungle,EDP,Woody Spicy,Male,Medium
+Armaf,The Legacy,EDP,Woody Aromatic,Male,Medium
+Armaf,The Signature For Women,EDP,Floral Fruity,Female,Medium
+Armaf,The Signature For Men,EDP,Woody Spicy,Male,Medium
+Armaf,Club De Nuit Intense Man Limited Edition Parfum,Parfum,Woody Spicy,Male,Strong
+Armaf,Club De Nuit Intense Women Limited Edition,Parfum,Floral Fruity,Female,Strong
+Armaf,Club De Nuit Milestones,EDP,Woody Spicy,Male,Medium
+Armaf,Club De Nuit Sillage,EDP,Woody Spicy,Male,Medium
+Armaf,Club De Nuit Imperiale,EDP,Woody Spicy,Male,Medium
+Armaf,Club De Nuit Urban Man,EDP,Woody Spicy,Male,Medium
+Armaf,Club De Nuit Urban Woman,EDP,Floral Fruity,Female,Medium
+Armaf,Club De Nuit Untold,Parfum,Woody Spicy,Male,Strong
+Armaf,Club De Nuit Timeless,Parfum,Woody Spicy,Male,Strong
+Armaf,Club De Nuit Iconic,EDP,Woody Spicy,Male,Medium
+Armaf,Ventana Pour Homme,EDP,Fresh Scent,Male,Medium
+Armaf,Ventana Pour Femme,EDP,Floral Fruity,Female,Medium
+Armaf,Ventana Noir,EDP,Woody Spicy,Male,Medium
+Armaf,Ventana Azure,EDP,Fresh Scent,Male,Medium
+Armaf,Opus Homme,EDP,Woody Spicy,Male,Medium
+Armaf,Opus Femme,EDP,Floral Fruity,Female,Medium
+Armaf,Opus Noir,EDP,Woody Spicy,Male,Medium
+Armaf,Opus Blue,EDP,Fresh Scent,Male,Medium
+Armaf,Opus Rouge,EDP,Woody Spicy,Male,Medium
+Armaf,Opus Gold,EDP,Woody Spicy,Male,Medium
+Armaf,Magnificent Pour Homme,EDP,Woody Spicy,Male,Medium
+Armaf,Magnificent Pour Femme,EDP,Floral Fruity,Female,Medium
+Fragrance World,Spectre Ghost,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Spectre Wraith,EDP,Woody Spicy,Male,Strong
+Fragrance World,Pinnace White,EDP,Fresh Scent,Unisex,Medium
+Fragrance World,Essence De Blanc,EDP,Floral Fruity,Female,Medium
+Fragrance World,Vulcan Feu French Avenue,EDP,Woody Spicy,Male,Strong
+Fragrance World,Urban Man Elixir,EDP,Woody Spicy,Male,Medium
+Fragrance World,Nuke 2.0,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Suits,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Sultry Woods,EDP,Woody Spicy,Male,Strong
+Fragrance World,Fierte,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Green Saphire,EDP,Fresh Scent,Unisex,Medium
+Fragrance World,Eau De Spice,EDP,Spicy Aromatic,Male,Medium
+Fragrance World,Imperial Fragrance World,EDP,Woody Spicy,Male,Strong
+Fragrance World,Divin Asylum,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Divin Oud,EDP,Oud,Unisex,Strong
+Fragrance World,Francique 63.55,EDP,Woody Aromatic,Male,Medium
+Fragrance World,My Soulmate Body,EDP,Floral Fruity,Female,Medium
+Fragrance World,Mirag Absolu,EDP,Woody Spicy,Male,Strong
+Fragrance World,Tropical Kiss,EDP,Fruity Floral,Female,Medium
+Fragrance World,Aqua Pura,EDP,Fresh Scent,Unisex,Medium
+Fragrance World,Arabian Incense,EDP,Oriental Woody,Unisex,Strong
+Fragrance World,Hibiscus Magic,EDP,Floral Fruity,Female,Medium
+Fragrance World,Brown Sugar,EDP,Gourmand,Unisex,Medium
+Fragrance World,Aqua Royale Blue,EDP,Fresh Scent,Male,Medium
+Fragrance World,Enigma Une,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Enigma Trois,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Imperium Edp,EDP,Woody Spicy,Male,Strong
+Fragrance World,Bavaria Pour Homme,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Aventos Green,EDP,Fresh Scent,Male,Medium
+Fragrance World,Absolute Oud Magnificent 7,EDP,Oud,Unisex,Strong
+Fragrance World,F Le Parfum,Parfum,Floral Fruity,Female,Strong
+Fragrance World,Giorgio Black Special Edition,EDP,Woody Spicy,Male,Medium
+Fragrance World,Harmony Code Absolute,EDP,Woody Aromatic,Male,Medium
+Fragrance World,Barakkat Rouge 540,EDP,Oud,Unisex,Strong
+Fragrance World,Barakkat Aqua Stellar,EDP,Fresh Scent,Unisex,Medium
+Fragrance World,Mocha Wood,EDP,Gourmand,Unisex,Medium
+Fragrance World,Star Men Nebula,EDP,Woody Aromatic,Male,Medium
+Fragrance World,La Uno Forever,EDP,Floral Fruity,Female,Medium
+Fragrance World,Royal Blend Nero,EDP,Woody Spicy,Male,Medium
+Fragrance World,Royal Blend,EDP,Woody Spicy,Male,Medium
+Fragrance World,Sweet Paradise,EDP,Fruity Floral,Female,Medium
+Fragrance World,Cocktail Intense,EDP,Woody Spicy,Male,Medium
+Rasasi,Shaghaf (Nafaies Al Shaghaf),EDP,Sweet Spicy Oriental,Unisex,Strong
+Rasasi,Shuhrah,EDP,Woody Spicy,Unisex,Strong
+Rasasi,Sotoor Seen,EDP,Fresh Spicy,Unisex,Medium
+Rasasi,Sotoor Taa,EDP,Fresh Aromatic,Unisex,Medium
+Rasasi,Sotoor Waaw,EDP,Fresh Woody,Unisex,Medium
+Rasasi,Hawas Tropical,EDP,Fruity Fresh,Male,Medium
+Riffs,Deoro Patchouli,EDP,Earthy Woody,Unisex,Medium-Strong
+Riffs,Elegant Homme,EDP,Fresh Woody,Male,Medium
+Riffs,Goodness Oud,EDP,Rich Oud,Unisex,Strong
+Riffs,Imperial Blue,EDP,Fresh Aromatic,Male,Light–Medium
+Riffs,Majestic Rose,EDP,Floral Rose,Female,Strong
+Riffs,Wonder Of You,EDP,Sweet Floral,Unisex,Medium
+Ibraheem Al Qurashi,Blue Oud,EDP,Oud Floral,Unisex,Strong
+Ibraheem Al Qurashi,Golden Amber,EDP,Amber Oriental,Unisex,Strong
+Nusuk,Al Mukhtalif Signature,EDP,Oriental Woody,Unisex,Medium
+Nusuk,Ana Al Awwal,EDP,Fresh Spicy,Unisex,Medium
+My Perfumes,Oud Al Layl,EDP,Oud Deep,Unisex,Strong
+Nusuk,Naseem Aqua,EDP,Fresh Aquatic,Unisex,Medium
+Zimaya,Sharaf Blend,EDP,Woody Floral,Unisex,Medium
+Zimaya,Sharaf Club Black,EDP,Oud Oriental,Unisex,Strong
+Ard Al Zaafaran,Al Dirgham Gold Limited Edition,EDP,Amber Spicy,Unisex,Strong
+Ard Al Zaafaran,Al Dirgham Silver Special Edition,EDP,Fresh Spicy,Unisex,Medium
+Al Haramain,Amber Oud Aqua Dubai,EDP,Fresh Amber,Male,Medium
+Al Haramain,Detour Noir,EDP,Woody Spicy,Male,Strong
+Al Haramain,Detour Noir Intense,EDP,Woody Spicy,Male,Strong
+Al Haramain,Detour Eco,EDP,Fresh Fougere,Male,Medium
+Al Haramain,Detour Rouge,EDP,Woody Spicy,Male,Strong
+Dirham,Dirham Oud,EDP,Oud Woody,Unisex,Strong
+Dirham,Dirham Wardi,EDP,Rose Oud,Unisex,Strong
+Dirham,Dirham Silver,EDP,Fresh Aromatic,Male,Medium
+Dirham,Dirham Gold,EDP,Woody Spicy,Male,Strong
+Sheikh Zayed,Sheikh Zayed Blue,EDP,Fresh Aquatic,Male,Medium
+Al Wataniah,Kayaan Classic,EDP,Woody Spicy,Male,Medium
+Insurrection,Insurrection Wild Ii,EDP,Woody Spicy,Male,Strong
+Rue Broca,Theoreme Martix,EDP,Oriental Spicy,Unisex,Strong
+Rue Broca,Theoreme,EDP,Oriental Spicy,Unisex,Medium
+Khadlj,Island,EDP,Fresh Green,Unisex,Light–Medium
+Khadlj,Island Vanilla Dunes,EDP,Fruity Vanilla,Unisex,Medium
+Khadlj,Karus Blue Spice,EDP,Fresh Spicy,Unisex,Medium
+Khadlj,Cloud Candy,EDP,Sweet Gourmand,Unisex,Medium
+Khadlj,Shiyaaka Gold,EDP,Woody Spicy,Male,Strong
+Khadlj,Shiyaaka Silver,EDP,Woody Aromatic,Male,Medium
+Khadlj,Shiyaaka Blue,EDP,Fresh Woody,Male,Medium
+Hamidi,Addicted Imperial,EDP,Woody Spicy,Male,Strong
+Hamidi,Addicted Silver,EDP,Woody Aromatic,Male,Medium
+Hamidi,Addicted Intense,EDP,Woody Spicy,Male,Strong
+Ajmal,Kuro,EDP,Fresh Aquatic,Male,Medium
+Ajmal,Blue,EDP,Fresh Aromatic,Male,Medium
+Ajmal,Shiro,EDP,Oriental Spicy,Unisex,Medium
+Ajmal,Rain Drops,EDP,Fresh Aquatic,Unisex,Light–Medium
+Ajmal,Wisal Dahab,EDP,Floral Oriental,Female,Medium
+Rayhaan,Elixr,EDP,Woody Spicy,Unisex,Strong
+Rayhaan,Crimson,EDP,Spicy Floral,Female,Medium
+Rayhaan,Pacific,EDP,Fresh Aquatic,Unisex,Medium
+Rayhaan,Lion,EDP,Woody Spicy,Unisex,Medium
+Rayhaan,Imperia Intense,EDP,Woody Spicy,Unisex,Strong
+Rayhaan,Royal Wood,EDP,Woody,Unisex,Medium
+Rayhaan,Fresh Wave,EDP,Fresh Aquatic,Unisex,Medium
+Rayhaan,Ocean Rush,EDP,Fresh Aquatic,Unisex,Medium
+Swiss Arabian,Shagaf Vanilla Toffee,EDP,Gourmand Sweet,Unisex,Strong
+Swiss Arabian,Shagaf Oud,EDP,Oud Spicy,Unisex,Strong
+Ard Al Zaafaran,Bint Hooran,EDP,Floral Oriental,Female,Medium
+Zimaya,Stallion,EDP,Woody Spicy,Male,Medium
+Al Rehab,Choco Musk,EDP,Gourmand Sweet,Unisex,Medium
+Zimaya,Itqan Noir,EDP,Woody Aromatic,Male,Strong
+Zimaya,Tiramisu Coco,EDP,Gourmand Dessert,Unisex,Medium
+Zimaya,Tiramisu Caramel,EDP,Gourmand Dessert,Unisex,Medium
+Zimaya,Mazaaj Infused,EDP,Woody Floral,Unisex,Medium
+Zimaya,Rabab,EDP,Fruity Floral,Female,Medium
+Paris Corner,Atoof,EDP,Woody Oriental,Unisex,Strong
+Paris Corner,Autobiography - Citron Vanille,EDP,Citrus Gourmand,Unisex,Medium
+Paris Corner,Autobiography - Salty Breeze,EDP,Fresh Aquatic,Male,Medium
+Paris Corner,Citron Vanille,EDP,Citrus Sweet,Female,Medium
+Paris Corner,Cosmopolitan Dubai,EDP,Oriental Spicy,Unisex,Strong
+Paris Corner,Choco Cult,EDP,Gourmand Chocolate,Unisex,Strong
+Paris Corner,Date Caramel,EDP,Sweet Gourmand,Unisex,Strong
+Paris Corner,December Vanilla,EDP,Vanilla Gourmand,Unisex,Medium
+Paris Corner,Emir - A Chaos In The Ocean,EDP,Fresh Aquatic,Unisex,Medium
+Paris Corner,Emir - A Walk On Dirt,EDP,Woody Earthy,Unisex,Medium
+Paris Corner,Emir - Camp Fire,EDP,Smoky Leather,Unisex,Strong
+Paris Corner,Emir - Celestial,EDP,Amber Woody,Unisex,Strong
+Paris Corner,Emir - Cherry Cola,EDP,Fruity Sweet,Unisex,Medium
+Paris Corner,Emir - Fascination,EDP,Oriental Spicy,Unisex,Strong
+Paris Corner,Emir - Fire Your Desire,EDP,Spicy Amber,Unisex,Strong
+Paris Corner,Emir - Frenetic Delicious,EDP,Sweet Fruity,Unisex,Medium
+Paris Corner,Emir - Frenetic Homme Intense,EDP,Woody Spicy,Male,Strong
+Paris Corner,Emir - Frenetic Men,EDP,Fresh Spicy,Male,Medium
+Paris Corner,Emir - Frenetic Tobacco Honey,EDP,Sweet Tobacco,Unisex,Strong
+Paris Corner,Emir - Juicy Melange,EDP,Fruity Citrus,Unisex,Medium
+Paris Corner,Emir - Just Bergamot,EDP,Citrus Fresh,Unisex,Medium
+Paris Corner,Emir - Mango Punch,EDP,Fruity Tropical,Unisex,Medium
+Paris Corner,Emir - Pear Potion,EDP,Fruity Sweet,Unisex,Medium
+Paris Corner,Emir - Resurrection,EDP,Woody Oriental,Unisex,Strong
+Paris Corner,Emir - Rich Santal,EDP,Woody Creamy,Unisex,Strong
+Paris Corner,Emir - Smoky Leather,EDP,Leather Smoky,Unisex,Strong
+Paris Corner,Emir - Trillium,EDP,Woody Floral,Unisex,Medium
+Paris Corner,Emir - Triumphant Sapphire,EDP,Woody Spicy,Unisex,Strong
+Paris Corner,Emir - Ultra Citrus,EDP,Citrus Fresh,Unisex,Medium
+Paris Corner,Emir - Vertex,EDP,Woody Spicy,Male,Strong
+Paris Corner,Emir - Vibrant Delight,EDP,Sweet Fruity,Unisex,Medium
+Paris Corner,Emir - Vibrant Orange & Neroli,EDP,Citrus Floral,Unisex,Medium
+Paris Corner,Emir - Cedrat Essence,EDP,Citrus Fresh,Unisex,Medium
+Paris Corner,Eternal Musk,EDP,Musky Floral,Unisex,Medium
+Paris Corner,Identity - Oud Crescent,EDP,Oud Oriental,Unisex,Strong
+Paris Corner,Identity - Rose & Leather,EDP,Floral Leather,Unisex,Strong
+Paris Corner,Kaheela Lux,EDP,Amber Spicy,Female,Strong
+Paris Corner,Khair,EDP,Sweet Floral,Female,Medium
+Paris Corner,Khair Confection,EDP,Sweet Gourmand,Female,Medium
+Paris Corner,Khair Felicity,EDP,Floral Sweet,Female,Medium
+Paris Corner,Khair Fusion,EDP,Floral Fruity,Female,Medium
+Paris Corner,Khair Pistachio,EDP,Gourmand Nutty,Unisex,Medium
+Paris Corner,Killer Oud - Death By Oud,EDP,Oud Smoky,Unisex,Strong
+Paris Corner,Killer Oud - Midnight Ecstasy,EDP,Amber Oud,Unisex,Strong
+Paris Corner,Marshmallow Blush,EDP,Sweet Gourmand,Female,Medium
+Paris Corner,Mawj Moscow Mule,EDP,Citrus Fresh,Unisex,Medium
+Paris Corner,Ministry Of Gourmand - Banana Bliss,EDP,Fruity Gourmand,Unisex,Medium
+Paris Corner,Ministry Of Gourmand - Tiramisu Specoloo,EDP,Dessert Gourmand,Unisex,Medium
+Paris Corner,Ministry Series - Amber Oud,EDP,Amber Oud,Unisex,Strong
+Paris Corner,Ministry Series - Oud Royal,EDP,Oud Spicy,Unisex,Strong
+Paris Corner,Ministry Series - Oud Satin,EDP,Oud Sweet,Unisex,Strong
+Paris Corner,Ministry Series - Oud Indonesian,EDP,Oud Woody,Unisex,Strong
+Paris Corner,North Stag - Neuf Ix (9),EDP,Woody Spicy,Male,Strong
+Paris Corner,North Stag - Sept Vii (7),EDP,Woody Aromatic,Male,Medium
+Paris Corner,North Stag - Huit Viii (8),EDP,Woody Oriental,Male,Strong
+Paris Corner,North Stag - Phenomenal Quatorze Xiv (14),EDP,Oriental Spicy,Male,Strong
+Paris Corner,North Stag Expressions - I (Une/1),EDP,Woody Fresh,Unisex,Medium
+Paris Corner,North Stag Expressions - Ii (Deux/2),EDP,Woody Oriental,Unisex,Strong
+Paris Corner,North Stag Expressions - Iii (Trois/3),EDP,Oriental Spicy,Unisex,Strong
+Paris Corner,North Stag Expressions - Iv (Quatre/4),EDP,Amber Woody,Unisex,Strong
+Paris Corner,Prive Zarah - Barcode Signature,EDP,Woody Aromatic,Male,Medium
+Paris Corner,Prive Zarah - Blend Afgano,EDP,Oud Oriental,Unisex,Strong
+Paris Corner,Prive Zarah - Bois Dores,EDP,Woody Amber,Unisex,Strong
+Paris Corner,Prive Zarah - Why,EDP,Fresh Spicy,Male,Medium
+Paris Corner,Qissa (Pink),EDP,Fruity Floral,Female,Medium
+Paris Corner,Qissa Delicious,EDP,Sweet Fruity,Female,Medium
+Paris Corner,Rifaqat,EDP,Amber Spicy,Unisex,Strong
+Paris Corner,Rifaqat Adorn,EDP,Floral Oriental,Female,Medium
+Paris Corner,Salty Breeze,EDP,Fresh Aquatic,Unisex,Medium
+Paris Corner,Soothing Zephyr,EDP,Fresh Aromatic,Unisex,Medium
+Paris Corner,Taskeen Caramel,EDP,Sweet Gourmand,Unisex,Medium
+Paris Corner,Taskeen Marina,EDP,Fresh Aquatic,Unisex,Medium
+Paris Corner,Voux - Blue Oud,EDP,Oud Woody,Unisex,Strong
+Paris Corner,Voux - Elegante,EDP,Floral Oriental,Female,Medium
+Paris Corner,Voux - Voilette,EDP,Floral Powdery,Female,Medium
+Paris Corner,Voux - Zeste,EDP,Citrus Fresh,Unisex,Medium
+Paris Corner,Voux - Zingy,EDP,Fruity Citrus,Unisex,Medium
+Afnan,9 Am Dive,EDP,Fresh Scent,Unisex,Medium
+Afnan,9 Am Pour Femme,EDP,Fresh Scent,Female,Medium
+Afnan,9 Am Pour Homme,EDP,Fresh Scent,Male,Medium
+Afnan,9 Pm,EDP,Mass Pleaser,Unisex,Medium
+Afnan,9 Pm Rebel,EDP,Woody Fruity,Male,Strong
+Afnan,Cherry Bouquet,EDP,Fruity Gourmand,Female,Medium
+Afnan,Abstract Portrait,EDP,Oriental Fougere,Unisex,Strong
+Afnan,Fatima Pink,EXTRAIT DE PARFUM,Floral Fruity,Female,Medium
+Afnan,Fatima Velvet Love,EDP,Floral Gourmand,Female,Medium
+Afnan,Historic Olmeda,EDP,Aromatic Spicy,Unisex,Medium
+Afnan,Historic Sahara,EDP,Oriental Vanilla,Unisex,Strong
+Afnan,Modest Deux,EDP,Fresh Scent,Female,Medium
+Afnan,Modest Une,EDP,Fresh Scent,Female,Medium
+Afnan,Mystique Bouquet,EDP,Fruity Floral,Female,Medium
+Afnan,Penthouse Ginza,EDP,Woody Spicy,Male,Medium
+Afnan,Pride Intense,EDP,Woody Spicy,Male,Medium
+Afnan,Rare Carbon,EDP,Woody Spicy,Male,Medium
+Afnan,Rare Reef,EDP,Woody Spicy,Male,Medium
+Afnan,Rare Tiffany,EDP,Woody Spicy,Male,Medium
+Afnan,Supremacy Collector'S Edition,EDP,Woody Spicy,Male,Strong
+Afnan,Supremacy Silver,EDP,Woody Spicy,Male,Medium
+Afnan,Supremacy In Heaven,EDP,Woody Spicy,Male,Medium
+Afnan,Supremacy In Oud,EDP,Woody Spicy,Male,Strong
+Afnan,Supremacy Not Only Intense,EDP,Woody Spicy,Male,Strong
+Afnan,Theoreme,EDP,Woody Spicy,Unisex,Medium
+Afnan,Theoreme Matrix,EDP,Woody Spicy,Unisex,Medium
+Afnan,Theoreme Pour Femme,EDP,Woody Spicy,Female,Medium
+Afnan,Turathi Blue,EDP,Woody Spicy,Male,Medium
+Afnan,Turathi Brown,EDP,Woody Spicy,Male,Medium
+Afnan,Turathi Electric,EDP,Woody Spicy,Male,Medium
+Xerjoff,Accento,EDP,Chypre Floral Fruity,Unisex,Strong
+Xerjoff,Mefisto Gentiluomo,EDP,Woody Aromatic,Unisex,Medium
+Xerjoff,Erba Pura,EDP,Fruity Musk,Unisex,Strong
+Xerjoff,More Than Words,EDP,Floral Oriental,Female,Medium
+Xerjoff,Naxos,EDP,Oriental Fougere Gourmand,Unisex,Strong
+Xerjoff,Starlight,EDP,Gourmand Spicy,Unisex,Medium
+Xerjoff,Wardasina,EDP,Woody Floral,Unisex,Medium
+Xerjoff,Zaffiro,EDP,Citrus Floral,Unisex,Medium
+Xerjoff,Uden,EDP,Woody Oriental,Unisex,Strong
+Xerjoff,Richwood,EDP,Woody Spicy,Unisex,Strong
+Xerjoff,1861 Naxos,EDP,Oriental Spicy,Unisex,Strong
+Xerjoff,Alexandria Ii,EDP,Amber Oriental,Unisex,Strong
+Xerjoff,Lira,EDP,Floral Fruity,Female,Medium
+Xerjoff,Join The Club,EDP,Citrus Woody,Unisex,Medium
+Xerjoff,Gloria,EDP,Floral Fruity,Female,Medium
+Xerjoff,Vol De Nuit,EDP,Oriental Spicy,Unisex,Strong
+Xerjoff,Nio,EDP,Fruity Citrus,Unisex,Medium
+Xerjoff,Romeo,EDP,Woody Spicy,Male,Strong
+Paco Rabanne,Phantom,Parfum,Woody Aromatic,Unisex,Strong
+Paco Rabanne,Fame,Parfum,Floriental,Female,Strong
+Paco Rabanne,Invictus Victory Elixir,Parfum,Amber Spicy,Male,Strong
+Paco Rabanne,Invictus Legend,Parfum,Woody Spicy,Male,Strong
+Paco Rabanne,Invictus Platinum,Parfum,Aromatic Fougere,Male,Strong
+Paco Rabanne,Lady Million,Parfum,Floriental,Female,Medium
+Paco Rabanne,1 Million Eau De Toilette,EDT,Woody Spicy,Male,Medium
+Paco Rabanne,1 Million Fabulous,Parfum,Amber Spicy,Male,Medium
+Paco Rabanne,1 Million Lucky,Parfum,Woody Fruity,Male,Strong
+Paco Rabanne,1 Million Prive,Parfum,Amber Spicy,Male,Strong
+Paco Rabanne,1 Million Royal,Parfum,Amber Woody,Male,Medium
+Paco Rabanne,Phantom Legion,Parfum,Woody Aromatic,Unisex,Strong
+Paco Rabanne,Phantom Pour Homme,Parfum,Woody Aromatic,Unisex,Strong
+Paco Rabanne,Pure Xs,Parfum,Amber Spicy,Male,Strong
+Paco Rabanne,Pure Xs For Her,Parfum,Floriental,Female,Strong
+Jean Paul Gaultier,Le Male,EDT,Amber Spicy,Male,Medium
+Jean Paul Gaultier,Ultra Male,EDP,Amber Spicy,Male,Strong
+Jean Paul Gaultier,Le Male Le Parfum,EDP,Amber Woody,Male,Strong
+Jean Paul Gaultier,Le Beau,EDT,Woody Aromatic,Male,Medium
+Jean Paul Gaultier,Le Beau Le Parfum,EDP,Woody Amber,Male,Strong
+Jean Paul Gaultier,Le Beau Paradise Garden,EDP,Woody Watery,Male,Medium
+Jean Paul Gaultier,Le Male In The Navy,EDT,Aromatic Fougere,Male,Medium
+Jean Paul Gaultier,Le Male Le Parfum Pride Edition,EDP,Amber Woody,Male,Strong
+Jean Paul Gaultier,Le Male Elixir,EDP,Amber Fougere,Male,Strong
+Jean Paul Gaultier,Le Male Aviator,EDT,Aromatic Fougere,Male,Medium
+Jean Paul Gaultier,Le Male Capitaine Collector,EDT,Aromatic Fougere,Male,Medium
+Jean Paul Gaultier,Le Male On Board,EDT,Aromatic Fougere,Male,Medium
+Jean Paul Gaultier,Le Male Pride 2023,EDP,Amber Woody,Male,Strong
+Jean Paul Gaultier,Le Male Pride 2024,EDP,Amber Woody,Male,Strong
+Jean Paul Gaultier,Classique,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique Intense,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique Essence De Parfum,Parfum,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique X,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique Collector,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique Eau De Parfum,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Classique Eau De Toilette,EDT,Oriental Floral,Female,Medium
+Jean Paul Gaultier,Scandal,EDP,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal By Night,EDP,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal A Paris,EDP,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal Le Parfum,Parfum,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal Parfum Intense,Parfum,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal Absolu,Parfum,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal Eau De Parfum,EDP,Floriental,Female,Strong
+Jean Paul Gaultier,Scandal Eau De Toilette,EDT,Floriental,Female,Medium
+Jean Paul Gaultier,Le Classique,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique Essence De Parfum,Parfum,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique Eau De Parfum,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique Eau De Toilette,EDT,Oriental Floral,Female,Medium
+Jean Paul Gaultier,Le Classique Collector,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique Intense,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique X,EDP,Oriental Floral,Female,Strong
+Jean Paul Gaultier,Le Classique Eau Fraiche,EDT,Oriental Floral,Female,Light
+Dior,Sauvage Edt,EDT,Aromatic Fougere,Male,Strong
+Dior,Sauvage Edp,EDP,Aromatic Fougere,Male,Very Strong
+Dior,Sauvage Parfum,Parfum,Aromatic Fougere,Male,Very Strong
+Dior,Sauvage Elixir,Parfum,Aromatic Fougere,Male,Very Strong
+Dior,Homme Intense,EDP,Floriental,Male,Strong
+Dior,Homme Parfum,Parfum,Floriental,Male,Strong
+Dior,J'Adore Edp,EDP,Floriental,Female,Medium
+Dior,J'Adore Edt,EDT,Floriental,Female,Medium
+Dior,J'Adore Parfum D'Eau,EDP,Floriental,Female,Light
+Dior,Addict Edp,EDP,Oriental Spicy,Female,Strong
+Dior,Addict Edt,EDT,Oriental Spicy,Female,Medium
+Dior,Miss Dior Edp,EDP,Floriental,Female,Medium
+Dior,Miss Dior Edt,EDT,Floriental,Female,Medium
+Dior,Gris Dior,EDP,Woody Floral,Unisex,Medium
+Dior,Eau Noire,EDP,Woody Aromatic,Unisex,Medium
+Dior,Fahrenheit,EDT,Leather,Unisex,Strong
+Dior,Fahrenheit Parfum,Parfum,Leather,Unisex,Very Strong
+Dior,Poison,EDT,Oriental Spicy,Female,Strong
+Dior,Poison Edp,EDP,Oriental Spicy,Female,Very Strong
+Dior,Poison Girl Edp,EDP,Floriental,Female,Medium
+Dior,Poison Girl Edt,EDT,Floriental,Female,Medium
+Dior,Joy Edp,EDP,Floriental,Female,Medium
+Dior,Joy Intense Edp,EDP,Floriental,Female,Medium
+Dior,Leather Oud,EDP,Leather,Unisex,Strong
+Dior,Ambre Nuit,EDP,Amber,Unisex,Strong
+Dior,Patchouli Imperial,EDP,Woody Chypre,Unisex,Strong
+Dior,Feve Delicieuse,EDP,Gourmand,Unisex,Strong
+Dior,Vanilla Diorama,EDP,Gourmand,Unisex,Strong
+Yves Saint Laurent,Libre Edp,EDP,Floral Amber,Female,Strong
+Yves Saint Laurent,Libre Intense Edp,EDP,Floral Amber,Female,Very Strong
+Yves Saint Laurent,Libre L'Eau Nue Edp,EDP,Floral,Female,Medium
+Yves Saint Laurent,Mon Paris Edp,EDP,Floriental,Female,Medium
+Yves Saint Laurent,Mon Paris Intensement Edp,EDP,Floriental,Female,Strong
+Yves Saint Laurent,Black Opium Edp,EDP,Ambery Gourmand,Female,Strong
+Yves Saint Laurent,Black Opium Intense Edp,EDP,Ambery Gourmand,Female,Very Strong
+Yves Saint Laurent,Y Edp,EDP,Aromatic Fougere,Male,Strong
+Yves Saint Laurent,Y Eau Fraiche Edt,EDT,Fruity Aromatic,Male,Medium
+Yves Saint Laurent,Y Le Parfum,Parfum,Aromatic Fougere,Male,Very Strong
+Yves Saint Laurent,L'Homme Edp,EDP,Woody Spicy,Male,Strong
+Yves Saint Laurent,L'Homme Parfum Intense Edp,EDP,Woody Spicy,Male,Very Strong
+Yves Saint Laurent,L'Homme Ultime Edp,EDP,Woody Spicy,Male,Strong
+Yves Saint Laurent,L'Homme Le Parfum,Parfum,Woody Spicy,Male,Very Strong
+Yves Saint Laurent,La Nuit De L'Homme Edp,EDP,Woody Spicy,Male,Strong
+Yves Saint Laurent,La Nuit De L'Homme Parfum,Parfum,Woody Spicy,Male,Very Strong
+Yves Saint Laurent,La Nuit De L'Homme L'Intense Edp,EDP,Woody Spicy,Male,Strong
+Dolce & Gabbana,The One Edp,EDP,Amber Floral,Female,Medium
+Dolce & Gabbana,The One Edp Intense,EDP,Amber Floral,Female,Strong
+Dolce & Gabbana,The Only One Edp,EDP,Floriental,Female,Medium
+Dolce & Gabbana,The Only One 2 Edp,EDP,Floriental,Female,Medium
+Dolce & Gabbana,Devotion Edp,EDP,Floriental,Female,Strong
+Dolce & Gabbana,Devotion Edp Intense,EDP,Floriental,Female,Strong
+Dolce & Gabbana,Light Blue Edt,EDT,Fruity Floral,Female,Medium
+Dolce & Gabbana,Light Blue Edp,EDP,Fruity Floral,Female,Medium
+Dolce & Gabbana,Light Blue Eau Intense Edp,EDP,Fruity Floral,Female,Strong
+Dolce & Gabbana,Light Blue Forever Edp,EDP,Fruity Floral,Female,Strong
+Dolce & Gabbana,Pour Homme Edt,EDT,Woody Aromatic,Male,Strong
+Dolce & Gabbana,Pour Homme Intenso Edp,EDP,Woody Aromatic,Male,Strong
+Dolce & Gabbana,The One For Men Edp,EDP,Amber Spicy,Male,Medium
+Dolce & Gabbana,The One For Men Edp Intense,EDP,Amber Spicy,Male,Strong
+Dolce & Gabbana,The One For Men Parfum,Parfum,Amber Spicy,Male,Strong
+Dolce & Gabbana,K By Dolce&Gabbana Edp,EDP,Woody Spicy,Male,Medium
+Dolce & Gabbana,K By Dolce&Gabbana Intenso Edp,EDP,Woody Spicy,Male,Strong
+Dolce & Gabbana,Light Blue Pour Homme Edt,EDT,Fruity Aromatic,Male,Medium
+Dolce & Gabbana,Light Blue Intense Pour Homme Edp,EDP,Fruity Aromatic,Male,Strong
+Azzaro,Chrome Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Intense Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Aqua Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Extreme Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Azure Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Legend Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Sport Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Pure Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome United Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Chrome Pure Sport Edt,EDT,Aromatic Fougere,Unisex,Medium
+Azzaro,Wanted Edt,EDT,Woody Spicy,Male,Medium
+Azzaro,Wanted By Night Edt,EDT,Woody Spicy,Male,Strong
+Azzaro,Wanted Eau De Parfum Edp,EDP,Woody Spicy,Male,Medium
+Azzaro,Wanted Freeride Edt,EDT,Woody Spicy,Male,Medium
+Azzaro,Wanted Tonic Edt,EDT,Citrus Aromatic,Male,Medium
+Azzaro,The Most Wanted Parfum,Parfum,Amber Spicy,Male,Strong
+Azzaro,The Most Wanted Intense Edp,EDP,Amber Spicy,Male,Very Strong
+Azzaro,The Most Wanted Eau De Parfum Edp,EDP,Amber Spicy,Male,Strong
+Azzaro,Forever Wanted Elixir Edp,EDP,Amber Woody,Male,Strong
+Azzaro,Pour Homme Edt,EDT,Woody Aromatic,Male,Medium
+Azzaro,Pour Homme Intense Edp,EDP,Woody Aromatic,Male,Strong
+Azzaro,Pour Homme Edition Noire Edp,EDP,Woody Aromatic,Male,Strong
+Azzaro,Pour Elle Edp,EDP,Floriental,Female,Medium
+Azzaro,Pour Elle L'Eau Tres Belle Edt,EDT,Floriental,Female,Medium
+Azzaro,Pour Elle L'Eau Tres Florale Edt,EDT,Floriental,Female,Medium
+Azzaro,Mademoiselle Edt,EDT,Floriental,Female,Medium
+Azzaro,Mademoiselle L'Eau Tres Belle Edt,EDT,Floriental,Female,Medium
+Azzaro,Mademoiselle L'Eau Tres Florale Edt,EDT,Floriental,Female,Medium
+Azzaro,Hot Pepper Edt,EDT,Spicy,Female,Medium
+Azzaro,Fun Edt,EDT,Floriental,Female,Medium
+Azzaro,Visit For Men Edt,EDT,Woody Spicy,Male,Medium
+Azzaro,Visit For Women Edt,EDT,Floriental,Female,Medium
+Azzaro,Decibel Edt,EDT,Woody Spicy,Male,Medium
+Azzaro,Elixir Edp,EDP,Amber Spicy,Male,Strong
+Al Haramain,Detour Exclusif,EDP,Woody Spicy,Unisex,Strong
+Al Haramain,L'Aventure,EDP,Citrus Woody,Male,Strong
+Al Haramain,L'Aventure Intense,EDP,Woody Spicy,Male,Strong
+Al Haramain,L'Aventure Blanche,EDP,Floral Woody,Female,Strong
+Al Haramain,L'Aventure Femme,EDP,Floriental,Female,Strong
+Al Haramain,L'Aventure Knight,EDP,Woody Aromatic,Male,Strong
+Al Haramain,L'Aventure Gold,EDP,Floriental,Female,Strong
+Al Haramain,Amber Oud Gold Edition,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud White Edition,EDP,Floriental,Unisex,Medium
+Al Haramain,Amber Oud Carbon Edition,EDP,Woody Aromatic,Unisex,Strong
+Al Haramain,Amber Oud Bleu Edition,EDP,Woody Spicy,Unisex,Strong
+Al Haramain,Amber Oud Tobacco Edition,EDP,Amber Spicy,Unisex,Strong
+Al Haramain,Amber Oud Ruby Edition,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Dubai Night,EDP,Woody Spicy,Unisex,Medium
+Al Haramain,Amber Oud Gold Edition Extreme,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Intense,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Limited,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Exclusive,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Supreme,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Royal,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Classic,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Prestige,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Signature,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Elite,EDP,Amber Floral,Unisex,Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Limited,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Exclusive,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Royal,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Classic,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Prestige,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Signature,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Elite,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Limited,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Exclusive,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Royal,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Classic,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Prestige,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Signature,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Al Haramain,Amber Oud Gold Edition Supreme Intense Elite,EXTRAIT DE PARFUM,Amber Floral,Unisex,Very Strong
+Creed,Aventus,EDP,Woody Fruity,Unisex,Strong
+Creed,Aventus For Her,EDP,Floriental,Female,Strong
+Creed,Silver Mountain Water,EDP,Aromatic,Unisex,Medium
+Creed,Green Irish Tweed,EDP,Fougere,Unisex,Medium
+Creed,Millésime Impérial,EDP,Fruity Floral,Unisex,Medium
+Creed,Original Vetiver,EDP,Woody Aromatic,Unisex,Medium
+Creed,Original Santal,EDP,Woody Spicy,Unisex,Medium
+Creed,Bois Du Portugal,EDP,Woody,Unisex,Medium
+Creed,Virgin Island Water,EDP,Tropical,Unisex,Medium
+Creed,Tabarome,EDP,Spicy Woody,Unisex,Medium
+Creed,Himalaya,EDP,Aromatic,Unisex,Medium
+Creed,Viking,EDP,Spicy Woody,Unisex,Medium
+Creed,Viking Cologne,EDP,Spicy Woody,Unisex,Medium
+Creed,Love In White,EDP,Floriental,Female,Medium
+Creed,Wind Flowers,EDP,Floriental,Female,Medium
+Creed,Spring Flower,EDP,Floriental,Female,Medium
+Creed,Carmina,EDP,Floriental,Female,Medium
+Creed,Queen Of Silk,EDP,Floriental,Female,Medium
+Creed,Eladaria,EDP,Floriental,Female,Medium
+Creed,Absolu Aventus,EDP,Woody Fruity,Unisex,Strong
+Creed,Royal Mayfair,EDP,Woody Floral,Unisex,Medium
+Creed,Delphinus,EDP,Amber Floral,Unisex,Medium
+Creed,Centaurus,EDP,Amber Spicy,Unisex,Medium
+Creed,Oud Zarian,EDP,Woody Oriental,Unisex,Medium
+Versace,Eros Parfum,EDP,Woody Aromatic,Male,Strong
+Versace,Eros Flame,EDP,Woody Spicy,Male,Medium
+Versace,Eros Energy,EDP,Citrus Aromatic,Male,Medium
+Versace,Dylan Blue Pour Homme,EDT,Woody Aquatic,Male,Medium
+Versace,Man Eau Fraiche,EDT,Woody Aquatic,Male,Light
+Versace,Pour Homme,EDT,Citrus Aromatic,Male,Light
+Versace,Crystal Noir,EDT,Amber Floral,Female,Medium
+Versace,Bright Crystal,EDP,Floriental,Female,Medium
+Versace,Yellow Diamond,EDP,Floriental,Female,Medium
+Versace,Red Jeans,EDT,Floriental,Female,Light
+Versace,Vanitas,EDP,Floriental,Female,Medium
+Versace,L'Homme,EDT,Woody Floral,Male,Medium
+Versace,Pour Homme Oud Noir,EDP,Woody Oriental,Male,Medium
+Versace,Versense,EDT,Green Floral,Female,Medium
+Versace,Atelier Cedrat De Diamante,EDP,Citrus Woody,Unisex,Medium
+Versace,Atelier Eclat De Rose,EDP,Floral,Unisex,Medium
+Versace,Atelier Encens Supreme,EDP,Incense Woody,Unisex,Medium
+Versace,Atelier Santal Boisé,EDP,Sandalwood,Unisex,Medium
+Carolina Herrera,Good Girl,EDP,Floriental,Female,Medium
+Carolina Herrera,Good Girl Blush,EDP,Floriental,Female,Medium
+Carolina Herrera,Good Girl Supreme,EDP,Floriental,Female,Medium
+Carolina Herrera,Very Good Girl,EDP,Floriental,Female,Medium
+Carolina Herrera,Very Good Girl Elixir,EDP,Floriental,Female,Medium
+Carolina Herrera,212 Vip,EDP,Woody Spicy,Female,Medium
+Carolina Herrera,212 Vip Black,EDP,Amber Spicy,Female,Medium
+Carolina Herrera,212 Heroes,EDT,Woody,Female,Light
+Carolina Herrera,212 Sexy,EDT,Floriental,Female,Light
+Carolina Herrera,212 Men,EDT,Woody Spicy,Male,Medium
+Carolina Herrera,212 Men Nyc,EDT,Woody Spicy,Male,Medium
+Carolina Herrera,212 Vip Men,EDT,Woody Spicy,Male,Medium
+Carolina Herrera,212 Vip Black Elixir,EDP,Amber Spicy,Male,Medium
+Carolina Herrera,Bad Boy,EDP,Woody Spicy,Male,Medium
+Carolina Herrera,Bad Boy Le Parfum,EDP,Woody Spicy,Male,Medium
+Carolina Herrera,Bad Boy Cobalt,EDP,Woody Spicy,Male,Medium
+Carolina Herrera,Amber Desire,EDP,Amber,Female,Medium
+Carolina Herrera,Neroli Bohème,EDP,Floriental,Female,Medium
+Carolina Herrera,Confidential Oud Couture,EDP,Woody,Female,Medium
+Hugo Boss,Boss Bottled Edt,EDT,Woody Spicy,Male,Medium
+Hugo Boss,Boss Bottled Edp,EDP,Woody Spicy,Male,Strong
+Hugo Boss,Boss Bottled Infinite,EDP,Woody Aromatic,Male,Medium
+Hugo Boss,Boss Bottled Tonic,EDT,Citrus Aromatic,Male,Light
+Hugo Boss,Boss The Scent Edt,EDT,Spicy Oriental,Male,Medium
+Hugo Boss,Boss The Scent Intense Edp,EDP,Spicy Oriental,Male,Strong
+Hugo Boss,Hugo Man Edt,EDT,Green Aromatic,Male,Light
+Hugo Boss,Hugo Just Different Edt,EDT,Woody Aromatic,Male,Light
+Hugo Boss,Boss Bottled Night Edt,EDT,Woody Aromatic,Male,Light
+Hugo Boss,Boss Ma Vie Edp,EDP,Floriental,Female,Medium
+Hugo Boss,Boss Femme Edp,EDP,Floriental,Female,Medium
+Hugo Boss,Boss The Scent For Her Edp,EDP,Floriental,Female,Medium
+Hugo Boss,Boss The Scent Le Parfum Edp,EDP,Floriental,Female,Medium
+Hugo Boss,Boss Bottled Oud,EDP,Woody Oriental,Male,Medium
+Hugo Boss,Boss Bottled Elixir,EDP,Woody Spicy,Male,Medium
+Hugo Boss,Boss The Scent Le Parfum,EDP,Oriental Woody,Male,Medium
+Hugo Boss,Boss The Scent Absolute,EDP,Oriental Woody,Male,Medium
+Hugo Boss,Hugo Energise,EDT,Woody Aquatic,Male,Light
+Hugo Boss,Hugo Just Different,EDT,Aromatic Green,Male,Light
+Hugo Boss,Boss Soul,EDT,Oriental Woody,Male,Medium
+Hugo Boss,Boss Selection,EDT,Woody Aromatic,Male,Medium
+Hugo Boss,Boss Bottled Sport,EDT,Woody Aromatic,Male,Light
+Hugo Boss,Boss Bottled Unlimited,EDT,Citrus Aromatic,Male,Light
+Hugo Boss,Boss Bottled Night,EDT,Woody Aromatic,Male,Light
+Hugo Boss,Boss Ma Vie L'Eau,EDT,Floral Fruity,Female,Light
+Hugo Boss,Boss Femme,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss Nuit Pour Femme,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss Orange,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss The Scent For Her,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss The Scent Magnetic,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss Alive,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Boss The Scent Private Accord,EDP,Floral Fruity,Female,Medium
+Hugo Boss,Hugo Reversed,EDT,Woody Aromatic,Male,Light
+Hermès,Terre D'Hermès Edt,EDT,Woody Citrus,Male,Medium
+Hermès,Terre D'Hermès Edp,EDP,Woody Citrus,Male,Strong
+Hermès,Terre D'Hermès Eau Très Fraîche,EDT,Woody Citrus,Male,Light
+Hermès,Terre D'Hermès Eau Givrée,EDT,Woody Citrus,Male,Light
+Hermès,H24 Edt,EDT,Aromatic Green,Male,Medium
+Hermès,H24 Herbes Vives Edp,EDP,Aromatic Fougere,Male,Medium
+Hermès,Un Jardin Sur Le Nil Edt,EDT,Green Fruity,Unisex,Light
+Hermès,Un Jardin Sur Le Toit Edt,EDT,Green Fruity,Unisex,Light
+Hermès,Un Jardin Méditerranéen Edt,EDT,Green Fruity,Unisex,Light
+Hermès,Un Jardin D'Amalfi Edt,EDT,Green Fruity,Unisex,Light
+Hermès,Un Jardin En Méditerranée Edt,EDT,Green Fruity,Unisex,Light
+Hermès,24 Faubourg Edp,EDP,Floriental,Female,Medium
+Hermès,24 Faubourg Edt,EDT,Floriental,Female,Light
+Hermès,Calèche Edp,EDP,Floriental,Female,Medium
+Hermès,Calèche Edt,EDT,Floriental,Female,Light
+Hermès,Elixir Des Merveilles Edp,EDP,Amber Woody,Female,Medium
+Hermès,Elixir Des Merveilles Bleue Edp,EDP,Amber Woody,Female,Medium
+Hermès,Barénia Edp,EDP,Chypre Fruity,Female,Medium
+Hermès,Barénia Eau De Parfum Intense,EDP,Chypre Fruity,Female,Medium
+Hermès,Barénia Eau De Parfum,EDP,Chypre Fruity,Female,Medium
+Hermès,Hermessence Collection Edp,EDP,Woody Floral,Unisex,Medium
+Hermès,Oud Alezan Edp,EDP,Woody Floral,Unisex,Medium
+Hermès,Épice Marine Edp,EDP,Woody Floral,Unisex,Medium
+Hermès,Ambre Narguilé Edp,EDP,Amber Woody,Unisex,Medium
+Hermès,Poivre Samarcande Edp,EDP,Spicy Woody,Unisex,Medium
+Hermès,Vanille Galante Edp,EDP,Floriental,Unisex,Medium
+Hermès,Brin De Réglisse Edp,EDP,Woody Floral,Unisex,Medium
+Tom Ford,Black Orchid Edp,EDP,Oriental Floral,Unisex,Strong
+Tom Ford,Black Orchid Edt,EDT,Oriental Floral,Unisex,Medium
+Tom Ford,Tobacco Vanille Edp,EDP,Oriental Spicy,Unisex,Strong
+Tom Ford,Lost Cherry Edp,EDP,Oriental Fruity,Unisex,Strong
+Tom Ford,Velvet Orchid Edp,EDP,Floriental,Female,Medium
+Tom Ford,Fucking Fabulous Edp,EDP,Oriental Fougere,Unisex,Strong
+Tom Ford,Oud Wood Edp,EDP,Woody Oriental,Unisex,Strong
+Tom Ford,Noir De Noir Edp,EDP,Oriental Floral,Unisex,Medium
+Tom Ford,White Patchouli Edp,EDP,Chypre Floral,Female,Medium
+Tom Ford,Black Orchid Parfum,Parfum,Oriental Floral,Unisex,Very Strong
+Tom Ford,Neroli Portofino Edt,EDT,Citrus Aromatic,Unisex,Light
+Tom Ford,Private Blend Oud Fleur Edp,EDP,Woody Floral,Unisex,Strong
+Tom Ford,Fuckin’ Fabulous Edp,EDP,Oriental Spicy,Unisex,Strong
+Parfums De Marly,Delina Edp,EDP,Floriental,Female,Strong
+Parfums De Marly,Delina Exclusif Edp,EDP,Amber Floral,Female,Strong
+Parfums De Marly,Delina La Rosée Edp,EDP,Floriental,Female,Medium
+Parfums De Marly,Valaya Edp,EDP,Floral Musky Woody,Female,Strong
+Parfums De Marly,Valaya Exclusif Edp,EDP,Floral Musky Woody,Female,Strong
+Parfums De Marly,Castley Edp,EDP,Woody Floral,Female,Strong
+Parfums De Marly,Palatine Edp,EDP,Woody Fruity,Female,Medium
+Parfums De Marly,Althaïr Edp,EDP,Woody Floral,Unisex,Strong
+Parfums De Marly,Haltane Edp,EDP,Woody Spicy,Unisex,Strong
+Parfums De Marly,Layton Edp,EDP,Amber Spicy,Unisex,Strong
+Parfums De Marly,Layton Exclusif Edp,EDP,Amber Spicy,Unisex,Strong
+Parfums De Marly,Greenley Edp,EDP,Fruity Woody,Unisex,Medium
+Parfums De Marly,Perseus Edp,EDP,Aromatic Woody,Unisex,Strong
+Parfums De Marly,Godolphin Edp,EDP,Woody Leather Chypre,Unisex,Strong
+Parfums De Marly,Darley Edp,EDP,Amber Fougère,Unisex,Strong
+Parfums De Marly,Habdan Edp,EDP,Woody Floral,Unisex,Strong
+Parfums De Marly,Oajan Edp,EDP,Amber Spicy,Unisex,Strong
+Giorgio Armani,Stronger With You Edt,EDT,Oriental Fougere,Male,Medium
+Giorgio Armani,Stronger With You Intensely Edp,EDP,Oriental Spicy,Male,Strong
+Giorgio Armani,Stronger With You Absolutely Edp,EDP,Amber Woody,Male,Strong
+Giorgio Armani,Stronger With You Leather Edp,EDP,Leather,Male,Strong
+Giorgio Armani,Stronger With You Oud Edp,EDP,Woody Oriental,Male,Strong
+Giorgio Armani,Stronger With You Only Edp,EDP,Floriental,Male,Medium
+Giorgio Armani,Stronger With You Freeze Edp,EDP,Aromatic Aquatic,Male,Medium
+Giorgio Armani,Stronger With You Amber Edp,EDP,Amber Spicy,Male,Strong
+Giorgio Armani,Stronger With You Parfum,Parfum,Amber Spicy,Male,Strong
+Giorgio Armani,Stronger With You Tobacco Edp,EDP,Amber Spicy,Male,Strong
+Giorgio Armani,Because It'S You Edp,EDP,Floriental,Female,Medium
+Giorgio Armani,Because It'S You Intensely Edp,EDP,Floriental Fruity,Female,Strong
+Giorgio Armani,Armani Code Edt,EDT,Oriental Spicy,Male,Medium
+Giorgio Armani,Armani Code Profumo Edp,EDP,Oriental Spicy,Male,Strong
+Giorgio Armani,Armani Code Absolu Edp,EDP,Oriental Spicy,Male,Strong
+Giorgio Armani,Armani Code Parfum,Parfum,Oriental Spicy,Male,Strong
+Giorgio Armani,Acqua Di Giò Edt,EDT,Aquatic Aromatic,Male,Medium
+Giorgio Armani,Acqua Di Giò Profondo Edp,EDP,Aquatic Aromatic,Male,Strong
+Giorgio Armani,Acqua Di Giò Absolu Edp,EDP,Woody Aquatic,Male,Strong
+Giorgio Armani,Acqua Di Giò Elixir Edp,EDP,Aquatic Aromatic,Male,Strong
+Giorgio Armani,Si Edp,EDP,Chypre Fruity,Female,Strong
+Giorgio Armani,Si Passione Edp,EDP,Floriental Fruity,Female,Strong
+Giorgio Armani,Si Fiori Edp,EDP,Floriental Fruity,Female,Medium
+Giorgio Armani,Si Intense Edp,EDP,Chypre Fruity,Female,Strong
+Giorgio Armani,My Way Edp,EDP,Floriental,Female,Medium
+Giorgio Armani,My Way Intense Edp,EDP,Floriental,Female,Strong
+Giorgio Armani,My Way Parfum,Parfum,Floriental,Female,Strong
+Giorgio Armani,My Way Nectar Edp,EDP,Floriental,Female,Strong
+Giorgio Armani,Acqua Di Giòia Edp,EDP,Aquatic Floral,Female,Medium
+Giorgio Armani,Acqua Di Giòia Essenza Edp,EDP,Aquatic Floral,Female,Strong
+Valentino,Donna Born In Roma Edp,EDP,Floral Woody,Female,Medium
+Valentino,Donna Born In Roma Intense Edp,EDP,Amber Floral,Female,Strong
+Valentino,Donna Born In Roma Coral Fantasy Edp,EDP,Fruity Floral,Female,Medium
+Valentino,Donna Born In Roma Green Stravaganza Edp,EDP,Green Floral,Female,Medium
+Valentino,Valentina Edp,EDP,Floriental,Female,Medium
+Valentino,Valentina Assoluto Edp,EDP,Floriental,Female,Strong
+Valentino,Valentina Pink Edp,EDP,Floral Fruity,Female,Medium
+Valentino,Valentina Oud Mystique Edp,EDP,Woody Oriental,Female,Strong
+Valentino,Valentino Uomo Edt,EDT,Woody Spicy,Male,Medium
+Valentino,Valentino Uomo Intense Edp,EDP,Woody Spicy,Male,Strong
+Valentino,Valentino Uomo Noir Absolu Edp,EDP,Woody Aromatic,Male,Strong
+Valentino,Valentino Uomo Born In Roma Edp,EDP,Amber Woody,Male,Strong
+Louis Vuitton,Imagination,EDP,Woody Aromatic,Unisex,Strong
+Louis Vuitton,L'Immensité,EDP,Aromatic Fougere,Male,Strong
+Louis Vuitton,Afternoon Swim,EDP,Citrus Aromatic,Unisex,Medium
+Louis Vuitton,Attrape-Rêves,EDP,Floriental,Female,Medium
+Louis Vuitton,Heures D'Absence,EDP,Floriental,Female,Medium
+Louis Vuitton,Le Jour Se Lève,EDP,Floriental,Female,Medium
+Louis Vuitton,Rose Des Vents,EDP,Floriental,Female,Medium
+Louis Vuitton,Cœur Battant,EDP,Floriental,Female,Medium
+Louis Vuitton,Matière Noire,EDP,Woody Floral,Unisex,Strong
+Louis Vuitton,Spell On You,EDP,Floriental,Female,Medium
+Louis Vuitton,Pacific Chill,EDP,Citrus Aromatic,Unisex,Medium
+Louis Vuitton,California Dream,EDP,Citrus Aromatic,Unisex,Medium
+Louis Vuitton,City Of Stars,EDP,Citrus Aromatic,Unisex,Medium
+Louis Vuitton,Apogée,EDP,Floriental,Female,Medium
+Louis Vuitton,Au Hasard,EDP,Woody Spicy,Unisex,Strong
+Louis Vuitton,Cactus Garden,EDP,Aromatic,Unisex,Medium
+Louis Vuitton,Contre Moi,EDP,Floriental,Female,Medium
+Louis Vuitton,On The Beach,EDP,Citrus Aromatic,Unisex,Medium
+Louis Vuitton,Les Sables Roses,EDP,Floriental,Unisex,Medium
+Louis Vuitton,Ombre Nomade,EDP,Oud,Unisex,Strong
+Louis Vuitton,Symphony,Extrait,Floriental,Unisex,Strong
+Louis Vuitton,Dancing Blossom,Extrait,Floriental,Unisex,Strong
+Louis Vuitton,Myriad,Extrait,Floriental,Unisex,Strong
+Louis Vuitton,Rhapsody,Extrait,Floriental,Unisex,Strong
+Prada,Paradoxe Eau De Parfum,EDP,Floriental,Female,Medium
+Prada,Paradoxe Intense Eau De Parfum,EDP,Amber Floral,Female,Strong
+Prada,Paradoxe Virtual Flower Eau De Parfum,EDP,Floral Fruity,Female,Medium
+Prada,Paradoxe Radical Essence Parfum,Parfum,Amber Woody,Female,Strong
+Prada,Luna Rossa Eau De Parfum,EDP,Aromatic Fougere,Male,Medium
+Prada,Luna Rossa Ocean Eau De Parfum,EDP,Aquatic Aromatic,Male,Medium
+Prada,Luna Rossa Carbon Eau De Parfum,EDP,Woody Aromatic,Male,Medium
+Prada,Luna Rossa Extreme Eau De Parfum,EDP,Woody Spicy,Male,Strong
+Prada,Luna Rossa Sport Eau De Parfum,EDP,Aromatic Aquatic,Male,Medium
+Prada,Luna Rossa Black Eau De Parfum,EDP,Woody Aromatic,Male,Strong
+Prada,Luna Rossa Ocean Eau De Toilette,EDT,Aquatic Aromatic,Male,Light
+Prada,Les Infusions De Mandarine Eau De Parfum,EDP,Citrus Aromatic,Unisex,Medium
+Prada,Les Infusions De Vetiver Eau De Parfum,EDP,Woody Aromatic,Unisex,Medium
+Prada,Les Infusions De Iris Eau De Parfum,EDP,Floriental,Unisex,Medium
+Prada,Les Infusions De Rose Eau De Parfum,EDP,Floriental,Unisex,Medium
+Prada,Les Infusions De Vanille Eau De Parfum,EDP,Amber Vanilla,Unisex,Medium
+Prada,Les Infusions De Cèdre Eau De Parfum,EDP,Woody Spicy,Unisex,Medium
+Prada,Les Infusions De Gingembre Eau De Parfum,EDP,Citrus Aromatic,Unisex,Medium
+Prada,Les Infusions De Rhubarbe Eau De Parfum,EDP,Floral Fruity,Unisex,Medium
+Prada,Les Infusions De Figue Eau De Parfum,EDP,Woody Fruity,Unisex,Medium
+Prada,Prada Candy Eau De Parfum,EDP,Gourmand,Female,Medium
+Prada,Prada Candy Night Eau De Parfum,EDP,Gourmand,Female,Medium
+Prada,Prada Candy Florale Eau De Parfum,EDP,Gourmand Floral,Female,Medium
+Prada,Prada Candy Kiss Eau De Parfum,EDP,Gourmand Floral,Female,Medium
+Prada,Prada Candy Gloss Eau De Parfum,EDP,Gourmand Fruity,Female,Medium
+Prada,Prada Candy L'Eau Eau De Parfum,EDP,Gourmand Floral,Female,Medium
+Prada,Prada Candy Sugar Pop Eau De Parfum,EDP,Gourmand Fruity,Female,Medium
+Victoria'S Secret,Tease Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Tease Rebel Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Love Spell Eau De Toilette,EDT,Floral Fruity,Female,Light
+Victoria'S Secret,Very Sexy Eau De Parfum,EDP,Oriental Floral,Female,Medium
+Victoria'S Secret,Very Sexy Now Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Bombshell Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Bombshell Intense Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Heavenly Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Scandalous Eau De Parfum,EDP,Amber Floral,Female,Medium
+Victoria'S Secret,Victoria Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Love Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Angelic Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Very Sexy Angel Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Love Addict Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Velvet Petals Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Secret Charm Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Love Me Eau De Parfum,EDP,Floriental,Female,Medium
+Victoria'S Secret,Fantasy Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Midnight Fantasy Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Love By Victoria Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Bombshell Seduction Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Victoria'S Secret,Love Spell Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Guerlain,Shalimar Eau De Parfum,EDP,Oriental,Female,Strong
+Guerlain,Shalimar Souffle De Parfum,EDP,Floriental,Female,Medium
+Guerlain,Shalimar Parfum Initial Eau De Parfum,EDP,Floriental,Female,Medium
+Guerlain,Shalimar Cologne,EDT,Citrus,Female,Light
+Guerlain,Mon Guerlain Eau De Parfum,EDP,Amber Floral,Female,Medium
+Guerlain,Mon Guerlain Bloom Of Rose Eau De Parfum,EDP,Floriental,Female,Medium
+Guerlain,Mon Guerlain Intense Eau De Parfum,EDP,Amber Floral,Female,Medium
+Guerlain,La Petite Robe Noire Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Guerlain,La Petite Robe Noire Intense Eau De Parfum,EDP,Floriental Fruity,Female,Medium
+Guerlain,La Petite Robe Noire Black Perfecto Eau De Parfum,EDP,Floriental,Female,Medium
+Guerlain,L'Instant De Guerlain Eau De Parfum,EDP,Floriental,Female,Medium
+Guerlain,L'Instant De Guerlain Eau De Toilette,EDT,Floriental,Female,Light
+Guerlain,Idylle Eau De Parfum,EDP,Floriental,Female,Medium
+Guerlain,Idylle Eau De Toilette,EDT,Floriental,Female,Light
+Diptyque,Philosykos Eau De Toilette,EDT,Woody Fruity,Unisex,Medium
+Diptyque,Do Son Eau De Toilette,EDT,Floral,Unisex,Medium
+Diptyque,L'Ombre Dans L'Eau Eau De Toilette,EDT,Floral Fruity,Unisex,Medium
+Diptyque,Tubéreuse Eau De Toilette,EDT,Floral,Unisex,Medium
+Diptyque,Eau Rose Eau De Toilette,EDT,Floral,Unisex,Medium
+Diptyque,Fleur De Peau Eau De Parfum,EDP,Floriental,Unisex,Medium
+Diptyque,Volutes Eau De Parfum,EDP,Oriental,Unisex,Medium
+Diptyque,Santé Eau De Toilette,EDT,Citrus Aromatic,Unisex,Light
+Diptyque,Oud Palao Eau De Parfum,EDP,Oud Floral,Unisex,Strong
+Diptyque,Do Son Eau De Parfum,EDP,Floral,Unisex,Medium
+Jo Malone,English Pear & Freesia Cologne,COLOGNE,Floral Fruity,Unisex,Medium
+Jo Malone,Peony & Blush Suede Cologne,COLOGNE,Floral,Female,Medium
+Jo Malone,Lime Basil & Mandarin Cologne,COLOGNE,Citrus Aromatic,Unisex,Medium
+Jo Malone,Wood Sage & Sea Salt Cologne,COLOGNE,Woody Aromatic,Unisex,Medium
+Jo Malone,Pomegranate Noir Cologne,COLOGNE,Oriental Fruity,Female,Medium
+Jo Malone,Nectarine Blossom & Honey Cologne,COLOGNE,Floral Fruity,Female,Medium
+Jo Malone,Red Roses Cologne,COLOGNE,Floral,Female,Medium
+Jo Malone,Amber & Lavender Cologne,COLOGNE,Amber Floral,Unisex,Medium
+Jo Malone,Wild Bluebell Cologne,COLOGNE,Floral,Female,Medium
+Jo Malone,English Oak & Redcurrant Cologne,COLOGNE,Woody Fruity,Unisex,Medium
+Ralph Lauren,Ralph Eau De Parfum,EDP,Floriental,Female,Medium
+Ralph Lauren,Ralph Eau De Toilette,EDT,Floriental,Female,Medium
+Ralph Lauren,Romance Eau De Parfum,EDP,Floriental,Female,Medium
+Ralph Lauren,Romance Eau De Toilette,EDT,Floriental,Female,Medium
+Ralph Lauren,Notorious Eau De Parfum,EDP,Floriental,Female,Medium
+Ralph Lauren,Blue Eau De Toilette,EDT,Aromatic Fougere,Male,Medium
+Ralph Lauren,Polo Black Eau De Parfum,EDP,Woody Aromatic,Male,Medium
+Ralph Lauren,Polo Red Eau De Parfum,EDP,Woody Spicy,Male,Medium
+Ralph Lauren,Polo Blue Eau De Parfum,EDP,Aromatic Fougere,Male,Medium
+Ralph Lauren,Polo Green Eau De Parfum,EDP,Woody Aromatic,Male,Medium
+Ralph Lauren,Polo Eau De Toilette,EDT,Woody Aromatic,Male,Medium
+Lattafa,Qaeed Al Fursan,EDP,Oriental Woody,Unisex,Strong
+Lattafa,Eclaire,EDP,Floral Fruity Gourmand,Female,Strong
+Lattafa,Dynasty,EDP,Woody Spicy,Unisex,Medium
+Lattafa,The Kingdom (Women),EDP,Floral Fruity Gourmand,Female,Medium
+Maison Alhambra,Bright Peach,EDP,Fruity Floral,Unisex,Strong
+Maison Alhambra,Woody Oud,EDP,Woody Spicy,Unisex,Medium
+Maison Alhambra,Lovely Cherie,EDP,Cherry Gourmand,Unisex,Medium
+Maison Alhambra,Toscano Leather,EDP,Leather,Unisex,Light
+Maison Alhambra,Yeah,EDP,Fresh Aromatic,Unisex,Light
+Maison Alhambra,Tobacco Touch,EDP,Amber Tobacco,Unisex,Medium
+Maison Alhambra,Jorge Di Profumo,EDP,Aquatic Aromatic,Unisex,Light
+Maison Alhambra,Porto Neroli,EDP,Citrus Aromatic,Unisex,Medium
+Maison Alhambra,Intense Peach,EDP,Fruity Floral,Unisex,Medium
+Maison Alhambra,Tabac,EDP,Tabac Accord,Unisex,Medium
+Maison Alhambra,Amber & Leather,EDP,Amber Leather,Unisex,Strong
+Maison Alhambra,Black Origami,EDP,Floral Chocolate,Unisex,Medium
+Maison Alhambra,Floral Ambrosia,EDP,Floriental,Unisex,Medium
+Maison Alhambra,Kingsman,EDP,Woody Aromatic,Unisex,Medium
+Maison Alhambra,Rose Oud,EDP,Amber Floral,Unisex,Medium
+Maison Alhambra,Karat,EDP,Gourmand,Unisex,Medium
+Maison Alhambra,Opera Noir,EDP,Oriental Floral,Unisex,Medium
+Maison Alhambra,Amberley Ombre Blue,EDP,Patchouli Fig,Unisex,Strong
+Maison Alhambra,Amberley Pur Oud,EDP,Woody Oud,Unisex,Strong
+Ajmal,Evoke For Him,EDP,Aromatic,Male,Strong
+Ajmal,Blu,EDP,Floral Aquatic,Male,Medium
+Ajmal,Amber Wood,EDP,Woody Amber,Unisex,Medium
+Ajmal,Wisal Layel,EDP,Fruity Floral Woody,Unisex,Strong
+Ajmal,Amber Musc,EDP,Amber Musk,Unisex,Strong
+Ajmal,Patchouli Wood,EDP,Woody Spicy,Unisex,Medium
+Ajmal,Moshriqa,EDP,Floral Spicy Oriental,Unisex,Strong
+Ajmal,Musk Rose,ALCOHOL-FREE,Floral Musk,Unisex,Strong
+Ajmal,Oudh Mukhallat,ATTAR,Oudh Blend,Unisex,Strong
+Ajmal,Dahn Al Oudh Zayeed,CONCENTRATE,Rich Oudh,Unisex,Strong
+Ajmal,Majmua,CONCENTRATE,Floral Amber Woody,Unisex,Strong
+Ajmal,1001 Nights,EDP,Woody Spicy,Unisex,Medium
+Ajmal,Silver Shade,EDP,Floral Powdery,Unisex,Light
+Ajmal,Wisal Dhahab,EDP,Floral Oriental,Unisex,Strong
+Ajmal,Bombay Dreams,EDP,Floral,Female,Medium
+Ajmal,Artisan Fleur Silk,EDP,Floral,Female,Medium
+Ajmal,Amber Musc Noir (Amber Musk Edp),EDP,Amber Musk,Unisex,Strong
+Ajmal,Ambre Pimente,EDP,Spicy Amber,Male,Strong
+Ajmal,Sacred Love,EDP,Citrus Floral,Female,Light
+Ajmal,Bling (Women),EDP,Floral,Female,Medium
+Ajmal,Amaze,EDP,Fresh Aromatic,Male,Medium
+Ajmal,Song Of Oud,EDP,Woody Oud,Unisex,Strong
+Ajmal,Amber Wood Noir,EDP,Woody Musky,Unisex,Strong
+Ajmal,Silent Storm,EDP,Citrus Amber,Unisex,Medium
+Ajmal,Zeal,EDP,Fresh Spicy,Unisex,Medium
+Ajmal,Mukhalat Al Raki,OIL,Floral Woody Musky,Unisex,Strong
+Ajmal,Colaba Mukhalat,OIL,Floral Ambery,Unisex,Strong
+Ajmal,Vanilla Amber Oil,OIL,Gourmand Vanilla,Unisex,Strong
+Zimaya,Amber Is Great,EDP,Fruity Amber,Unisex,Medium
+Zimaya,Yaa Umree,EDP,Creamy Floral,Female,Medium
+Zimaya,Hawwa Pink,EDP,Fruity Floral,Female,Strong
+Zimaya,Hawwa Red,EDP,Fruity Floral,Female,Medium
+Montblanc,Legend Edt,EDT,Aromatic Fougere,Male,Medium
+Montblanc,Legend Edp,EDP,Aromatic Fougere,Male,Strong
+Montblanc,Legend Spirit,EDP,Woody Aromatic,Male,Medium
+Montblanc,Legend Blue,EDP,Fresh Aquatic,Male,Medium
+Montblanc,Legend Red,EDP,Woody Fruity,Male,Medium
+Montblanc,Legend Night,EDP,Woody Aromatic,Male,Medium
+Montblanc,Explorer,EDP,Woody Aromatic,Male,Medium
+Montblanc,Signature,EDP,Floral Musk,Female,Light
+Montblanc,Signature Absolue,EDP,Tropical Floral,Female,Strong
+Mancera,Instant Crush,EDP,Amber Floral,Unisex,Strong
+Mancera,Cedrat Boise,EDP,Citrus Aromatic,Unisex,Strong
+Mancera,Red Tobacco,EDP,Tobacco Spicy,Unisex,Strong
+Mancera,Black Vanilla,EDP,Spicy Amber,Unisex,Strong
+Mancera,Feminity,EDP,Floral Powdery,Female,Medium
+Mancera,Pearl,EDP,Fig Floral Musk,Female,Strong
+Mancera,Velvet Vanilla,EDP,Floriental,Female,Strong
+Mancera,Roses Vanille,EDP,Floriental,Female,Strong
+Mancera,Hindu Kush,EDP,Woody,Unisex,Strong
+Mancera,Holiday,EDP,Fresh Oriental,Unisex,Medium
+Mancera,Aoud Lemon Mint,EDP,Fresh Woody,Unisex,Strong
+Mancera,French Riviera,EDP,Citrus Aromatic,Unisex,Strong
+Mancera,Wind Wood,EDP,Woody Floral,Male,Strong
+Mancera,Roses Greedy,EDP,Floral Gourmand,Female,Medium
