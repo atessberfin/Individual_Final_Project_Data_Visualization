@@ -234,7 +234,7 @@ with top_right:
         im = ax5.imshow(ct_top.values, cmap="Oranges", aspect="auto")
         ax5.set_yticks(np.arange(len(ct_top.index))); ax5.set_yticklabels(ct_top.index, fontsize=6)
         ax5.set_xticks(np.arange(len(ct_top.columns))); ax5.set_xticklabels(ct_top.columns, fontsize=6)
-        ax5.set_title("Top Fragrance Categories by Target Audience", fontsize=8, pad=6)
+        ax5.set_title("Top Fragrance Categories by Target Audience", fontsize=9, pad=6)
         ax5.set_ylabel("Fragrance Category", fontsize=7); ax5.set_xlabel("", fontsize=7)
         for i in range(ct_top.shape[0]):
             for j in range(ct_top.shape[1]):
