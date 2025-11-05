@@ -1,1 +1,1 @@
-https://final-project-datavisualization.streamlit.app/
+https://individualfinalprojectdatavisualization.streamlit.app/
